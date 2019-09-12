@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+h1 {
+    font-family: 'Monoton', cursive;
+    color: #0ccac4;
+}
+body {
+    background: linear-gradient(to right,#1089ff,#3b064d);
+}
